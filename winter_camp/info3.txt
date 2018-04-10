@@ -1,0 +1,6 @@
+RollNo,PhoneNo,Address,City,Pincode
+103,9017628789,11/2 Gandhinagar,Bhimavaram,552319
+1,9701573683,1/14 Maruthi Nagar,Bhimavaram,552754
+70,9170620761,30/2 Gandhinagar,Bhimavaram,553256
+119,9315431343,16/6 Raayalam,Bhimavaram,553277
+48,9360551151,17/4 Pedamiram colony,Bhimavaram,559302

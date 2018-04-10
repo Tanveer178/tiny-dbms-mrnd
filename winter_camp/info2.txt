@@ -1,0 +1,10 @@
+RollNo,PhoneNo,Address,City,Pincode
+20,9383578582,21/2 Raayalam,Bhimavaram,516920
+10,9540856630,2-1-2 Narasimhapuram,Bhimavaram,523074
+93,9069483892,3/14 Adarsh Nagar,Bhimavaram,526861
+75,9656409684,280/3 Srirampuram,Bhimavaram,527862
+40,9032233931,1/2 Pedamiram colony,Bhimavaram,534016
+105,9118636946,3/4/16 Raayalam,Bhimavaram,534046
+74,9179037758,11/3 Pedamiram colony,Bhimavaram,534785
+121,9209139286,10/1 Sivaraopeta,Bhimavaram,538004
+14,9493878355,11/2 Gandhinagar,Bhimavaram,538206
